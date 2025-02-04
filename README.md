@@ -1,12 +1,10 @@
 # Getting started with Generative AI in Azure
-[![Azure AI Community Discord](
-https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4?WT.mc_id=aiml-00001-leestott)
 
 This repo hosts the material for the Microsoft AI Tour session *Getting started with Generative AI in Azure*.
 
 ## Session Description
 
-Discover the basics of generative AI, including core models, functionalities. Learn how to utilize these models within the Azure ecosystem, leveraging various services to build your own generative AI applications.
+Discover the basics of generative AI, including core models, and functionalities. Learn how to utilize these models within the Azure ecosystem, leveraging various services to build your own generative AI applications.
 
 ## Learning Outcomes
 
@@ -14,7 +12,7 @@ Discover the basics of generative AI, including core models, functionalities. Le
 * Explore the Azure AI services
 * Understand how language models work
 * Learn how to interact with large language models
-* Explore various types of models for different usecases
+* Explore various types of models for different use-cases
 
 ## Technology Used
 
